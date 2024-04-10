@@ -2,10 +2,11 @@
 Kaggle competition Bank Churn Dataset. 
 https://www.kaggle.com/competitions/playground-series-s4e1
 
-# Used
+# Used libs
 - **CatBoost**
 - **Sklearn**
-  
+
+# Used methods
 - **Random Forest Regressor**
 - **Gaussian Naive Bayes**
 - **Logistic Regression**
